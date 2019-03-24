@@ -1,0 +1,42 @@
+{
+  "bloodhound": {
+    "id": "bloodhound",
+    "title": "Bloodhound",
+    "description": "Technological Tracker"
+  },
+  "gibraltar": {
+    "id": "gibraltar",
+    "title": "Gibraltar",
+    "description": "Meatshield"
+  },
+  "lifeline": {
+    "id": "lifeline",
+    "title": "Lifeline",
+    "description": "Combat medic"
+  },
+  "pathfinder": {
+    "id": "pathfinder",
+    "title": "Pathfinder",
+    "description": "Ropes everyone"
+  },
+  "wraith": {
+    "id": "wraith",
+    "title": "Wraith",
+    "description": "Portals"
+  },
+  "bangalor": {
+    "id": "bangalor",
+    "title": "Bangalor",
+    "description": "Professional soldier"
+  },
+  "caustic": {
+    "id": "caustic",
+    "title": "Caustic",
+    "description": "Useless barrels guy"
+  },
+  "mirage": {
+    "id": "mirage",
+    "title": "Mirage",
+    "description": "Ex standup comedian"
+  }
+}

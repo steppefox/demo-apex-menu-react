@@ -1,0 +1,35 @@
+{
+  "name": "mmm",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/jest": "24.0.11",
+    "@types/node": "11.11.6",
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.3",
+    "axios": "0.18.0",
+    "emotion": "10.0.9",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "react-redux": "6.0.1",
+    "react-scripts": "2.0.3",
+    "redux": "4.0.1",
+    "redux-thunk": "2.3.0",
+    "typescript": "3.3.4000"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
